@@ -1,0 +1,10 @@
+{
+  "name": "bookmarklet",
+  "version": "1.0.0",
+  "description": "A listing of bookmarklet efforts at ZINE on GitHub",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-artoo": "^0.1.0",
+    "gulp-uglify": "^1.4.0"
+  }
+}
